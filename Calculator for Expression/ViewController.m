@@ -83,7 +83,6 @@
             default:
                 break;
         }
-        
     }
     
     if([infix characterAtIndex:[infix length]-1]!=')'){
